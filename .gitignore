@@ -39,3 +39,7 @@ cpp/objsolver/bin/objsolver.pdb
 /python/bridge/final/__pycache__
 /python/wall/final/__pycache__
 /cpp/objsolver/.vscode
+
+# pstack (Claude Code skills and agents, installed locally)
+/.claude/skills/
+/.claude/agents/
